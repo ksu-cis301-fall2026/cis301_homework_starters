@@ -1,0 +1,3 @@
+This repository contains the problems for each homework assignment in CIS 301, organized by homework number (e.g., the "hw1" folder contains the problems for Homework 1). It will be updated throughout the semester as new homework assignments are given.
+
+For each assignment, navigate to your class repository and create a new subfolder corresponding to the homework number (e.g., "hw1" for Homework 1). Copy all the files from THIS repository for the assignment to YOUR repository in the new homework folder. (You can either clone this homework repository and do "git pull" to get new homework problems, or you can manually copy each problem file from GitHub).

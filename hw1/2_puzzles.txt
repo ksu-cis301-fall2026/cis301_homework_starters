@@ -1,0 +1,57 @@
+//Homework 1
+//2_puzzles.txt
+
+On the island of Knights and Knaves, every inhabitant is either a knight or a knave.
+Knights always tell the truth, and knaves always lie.
+
+
+////////////////////////////////////
+
+5) You see inhabitants Gabe, Harry, and Caitlin.
+
+Gabe says: All three of us are knaves.
+Caitlin says: Exactly one of us is a knight.
+(Harry doesn't say anything.)
+
+//type your solution (knight or knave) next to each question
+What type is Gabe? knave
+What type is Harry? knave
+What type is Caitlin? knight
+
+//Explain your reasoning below. Why is your answer the ONLY one that works?
+
+
+
+
+////////////////////////////////////
+
+6) You see inhabitants Gabby, Lewis, and Ellie.
+
+Gabby says: Lewis and I are both knights.
+Lewis says: Ellie would say I am a knight.
+Ellie says: Either I am a knight or Lewis is a knight, but not both of us.
+
+//type your solution (knight or knave) next to each question
+What type is Gabby? knave
+What type is Lewis? knave
+What type is Ellie? knight
+
+//Explain your reasoning below. Why is your answer the ONLY one that works?
+
+
+
+///////////////////////////////////
+
+7) Your award-winning koi fish was stolen from your pond. You know the thief was either Agatha, Ferdinand, or Carl.
+
+       Agatha says: "Don't look at me! I didn't steal your oversized goldfish."
+       Carl says: "Me either! I prefer turtles anyway."
+
+       Then you ask Ferdinand, "Did Agatha and Carl tell the truth?"
+       Ferdinand replies, "At least one of them did."
+
+   You later learn that Carl and Ferdinand were not both telling the truth. (Careful -- this is a different statement
+   than "Carl and Ferdinand were both not telling the truth".)
+
+
+   --> Who stole your koi? Explain your answer.
