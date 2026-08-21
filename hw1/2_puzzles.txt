@@ -14,9 +14,9 @@ Caitlin says: Exactly one of us is a knight.
 (Harry doesn't say anything.)
 
 //type your solution (knight or knave) next to each question
-What type is Gabe? knave
-What type is Harry? knave
-What type is Caitlin? knight
+What type is Gabe? 
+What type is Harry? 
+What type is Caitlin? 
 
 //Explain your reasoning below. Why is your answer the ONLY one that works?
 
@@ -32,9 +32,9 @@ Lewis says: Ellie would say I am a knight.
 Ellie says: Either I am a knight or Lewis is a knight, but not both of us.
 
 //type your solution (knight or knave) next to each question
-What type is Gabby? knave
-What type is Lewis? knave
-What type is Ellie? knight
+What type is Gabby? 
+What type is Lewis? 
+What type is Ellie? 
 
 //Explain your reasoning below. Why is your answer the ONLY one that works?
 
