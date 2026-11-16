@@ -2,7 +2,7 @@
 //@Logika: --manual
 
 //YOU DO THIS
-//Add proof blocks in the minus function and the test code
+//Add proof blocks in the fourTimes function and the test code
 //When you finish, the assert statements should be verified
 
 //You should not make any changes other than adding proof blocks
